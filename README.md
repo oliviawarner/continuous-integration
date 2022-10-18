@@ -98,8 +98,6 @@ First, let's add a workflow to lint our Markdown files in this repository.
 <details id=2>
 <summary><h2>Step 2: Fix the test</h2></summary>
 
-_Great job adding the templated workflow! :tada:_
-
 Adding that file to this branch is enough for GitHub Actions to begin running CI on your repository.
 
 When a GitHub Actions workflow is running, you should see some checks in progress, like the screenshot below.
